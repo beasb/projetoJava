@@ -29,8 +29,6 @@ public class ExemploSwitchCase {
 		default:
 			System.out.println("Opção Inválida");
 		}
-		//	System.out.println(); 
-		// sysout + ctrl + espaço
 	}
 
 }
